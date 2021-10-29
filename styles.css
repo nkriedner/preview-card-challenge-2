@@ -45,6 +45,10 @@ body {
     color: var(--sedan-color);
 }
 
+.sedans-card a:hover {
+    background-color: var(--sedan-color);
+}
+
 .suvs-card {
     background-color: var(--suv-color);
 }
@@ -53,12 +57,20 @@ body {
     color: var(--suv-color);
 }
 
+.suvs-card a:hover {
+    background-color: var(--suv-color);
+}
+
 .luxury-card {
     background-color: var(--luxury-color);
 }
 
 .luxury-card a {
     color: var(--luxury-color);
+}
+
+.luxury-card a:hover {
+    background-color: var(--luxury-color);
 }
 
 .card h2 {
@@ -89,8 +101,13 @@ body {
 
 a {
     background-color: hsl(0, 0%, 95%);
-    border-color: hsl(0, 0%, 95%);
+    border: 2px solid hsl(0, 0%, 95%);
     border-radius: 30px;
     text-decoration: none;
     padding: 1rem 2rem;
+    transition: all 0.5s;
+}
+
+a:hover {
+    color: hsl(0, 0%, 95%);
 }

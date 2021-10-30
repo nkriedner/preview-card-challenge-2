@@ -24,7 +24,7 @@ Users should be able to:
 
 ### Screenshot
 
-![Screenshot of site in Desktop view](./screenshot.jpg)
+![Screenshot of site in Desktop view](./screenshot.JPG)
 
 ### Links
 

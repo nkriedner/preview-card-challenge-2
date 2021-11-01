@@ -28,8 +28,8 @@ Users should be able to:
 
 ### Links
 
--   Solution URL: [Add solution URL here](https://github.com/nkriedner/preview-card-challenge-2)
--   Live Site URL: [Add live site URL here](https://nkriedner.github.io/preview-card-challenge-2/)
+-   Solution URL: [https://github.com/nkriedner/preview-card-challenge-2](https://github.com/nkriedner/preview-card-challenge-2)
+-   Live Site URL: [https://nkriedner.github.io/preview-card-challenge-2/](https://nkriedner.github.io/preview-card-challenge-2/)
 
 ## My process
 
